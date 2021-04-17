@@ -6,4 +6,4 @@ Install this code on your webserver and append http://yourserver.tld/yourdirecto
 
 This code contains the modifications made here so that you don't have to install it in a root directory: https://github.com/ActionRetro/FrogFind/pull/3 by @ndunand
 
-See this thread for valuable information on installation: https://github.com/ActionRetro/FrogFind/pull/3
+See this thread for valuable information on installation: https://github.com/ActionRetro/FrogFind/issues/1
