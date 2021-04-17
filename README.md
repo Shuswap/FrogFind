@@ -8,4 +8,4 @@ This code contains the modifications made by @ndunand so that you don't have to 
 
 See this thread for valuable information on installation: https://github.com/ActionRetro/FrogFind/issues/1
 
-Or just use my installation: http://darkstar.x10host.com/mobilizer/read.php/?a=
+Or just use my installation: http://darkstar.x10host.com/mobilizer/read.php/?a= You can add the prefix in front of your bookmarks if it renders them properly.
