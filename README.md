@@ -7,3 +7,5 @@ Install this code on your webserver and append http://yourserver.tld/yourdirecto
 This code contains the modifications made by @ndunand so that you don't have to install it in a root directory: https://github.com/ActionRetro/FrogFind/pull/3
 
 See this thread for valuable information on installation: https://github.com/ActionRetro/FrogFind/issues/1
+
+Or just use my installation: http://darkstar.x10host.com/mobilizer/read.php/?a=
